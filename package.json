@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "jest ./test",
-    "eslint": "eslint ."
+    "lint": "eslint ."
   },
   "author": "yinjianan thlz998@gmail.com",
   "dependencies": {
